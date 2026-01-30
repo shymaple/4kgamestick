@@ -46,7 +46,7 @@ The firmware for this specific board is approximately **57GB**.
 
 > See [firmware/](firmware/) directory for direct download links
 
-## 🚀 Recovery Steps
+## Recovery Steps
 
 ### Step 1: Prepare Your MicroSD Card
 

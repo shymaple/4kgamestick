@@ -1,0 +1,19 @@
+Firmware Download Links
+=======================
+
+Primary Source (Internet Archive):
+https://archive.org/details/game-stick-2.0-m-8-pro-1.3-bkp
+
+Download Instructions:
+1. Visit the link above
+2. Click "Show All" to see all files
+3. Download the .img file (~57GB)
+
+Recommended Download Manager:
+- Windows 10/11 (64-bit): https://archive.org/download/freedownloadmanager-2023-x64/fdm-x64-6.2-setup.zip
+- Windows 7/8.x (64-bit): https://archive.org/download/freedownloadmanager-2023-x64/fdm-x64-5.1-setup.zip
+
+Important:
+- PCB Version Required: 2023-02-03_V1.3 (Red PCB)
+- Firmware Size: ~57GB
+- Do NOT use firmware for V1.0 or V2.0 boards

@@ -1,0 +1,17 @@
+Tool Download Links
+===================
+
+Disk Imaging Software:
+- Balena Etcher: https://etcher.balena.io/
+- USBImager: https://github.com/bztsrc/usbimager
+
+SD Card Formatting:
+- SD Card Formatter: https://www.sdcard.org/downloads/formatter/
+
+Download Manager (for firmware):
+- Free Download Manager (Windows 10/11): https://archive.org/download/freedownloadmanager-2023-x64/fdm-x64-6.2-setup.zip
+- Free Download Manager (Windows 7/8.x): https://archive.org/download/freedownloadmanager-2023-x64/fdm-x64-5.1-setup.zip
+
+Alternative Tools:
+- Rufus (Windows): https://rufus.ie/
+- Win32 Disk Imager (Windows): https://sourceforge.net/projects/win32diskimager/
